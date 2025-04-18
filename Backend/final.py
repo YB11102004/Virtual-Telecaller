@@ -225,7 +225,7 @@ if __name__ == '__main__':
 # CORS(app)  # Enable CORS for frontend integration
 
 # # OpenAI API Configuration
-# token = "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"  # Note: This appears to be a GitHub token, not OpenAI
+# token = "GITHUB_TOKEN"  # Note: This appears to be a GitHub token, not OpenAI
 # endpoint = "https://models.inference.ai.azure.com"
 # model_name = "gpt-4o"
 
