@@ -26,7 +26,7 @@ client = OpenAI(
 SERVICE_ACCOUNT_FILE = 'PATH_TO_YOUR_SERVICE_FILE'
 FILE_TO_UPLOAD = 'queries.txt'
 YOUR_EMAIL = 'your email'
-FOLDER_ID = '1dm3dBuiLh4bjZrdEOCXoGCR5WAwQsE98'
+FOLDER_ID = 'YOUR_FOLDER_ID'
 MIMETYPE = 'text/plain'
 
 # Initialize Drive Service
