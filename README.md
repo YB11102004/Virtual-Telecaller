@@ -124,6 +124,8 @@ npm run dev
 npm start
 ```
 
+---
+
 ## 💡Usage
 1. Open the application in your browser
 2. Click "Start Call" to begin a voice conversation
@@ -131,10 +133,14 @@ npm start
 4. The AI will process your query and respond both visually and audibly
 5. Alternatively, use the chat interface by clicking "Open Chatbot"
 
+---
+
 ## Future Improvements
 - Direct API communication instead of Drive middleware with availabilty of more computational resources.
 - Enhanced error handling and recovery
 - User authentication and personalization
 - Expanded training dataset for better responses
+
+---
 
 💬 Open to feedback, suggestions, and collaboration to enhance this project further.
