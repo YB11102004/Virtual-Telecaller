@@ -5,9 +5,9 @@ import io
 
 # === CONFIGURATION ===
 
-SERVICE_ACCOUNT_FILE = 'D:\\Projects\\telecaller\\backend\\avid-influence-451503-v3-b0c64ccab032.json'
+SERVICE_ACCOUNT_FILE = 'YOUR_SERVICE_FILE_PATH'
 FILE_NAME = 'response.txt'
-FOLDER_ID = '1mYtpp5m_RDrD7CLk8BbWLXAX0WIjcYRa'
+FOLDER_ID = 'YOUR_FOLDER_ID'
 LOCAL_DOWNLOAD_PATH = 'downloaded_response.txt'
 
 # === AUTHENTICATION ===
