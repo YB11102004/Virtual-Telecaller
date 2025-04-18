@@ -5,7 +5,7 @@ An AI-powered virtual telecaller system that integrates **real-time voice calls*
 
 ---
 
-## 🚀 Features  
+## Features  
 - Real-time voice calling with **Zego Express SDK**  
 - **Speech-to-text** transcription  
 - AI responses using fine-tuned **Llama-3.2B-Instruct** on the *Bitext-media-llm-chatbot-training-dataset*  
@@ -14,7 +14,7 @@ An AI-powered virtual telecaller system that integrates **real-time voice calls*
 
 ---
 
-## 🏗️ Architecture  
+## Architecture  
 - **Frontend**: React.js app with voice & chat UI  
 - **Backend**: Flask server for API and file operations  
 - **Model Hosting**: Kaggle notebook running the fine-tuned Llama model  
@@ -22,7 +22,7 @@ An AI-powered virtual telecaller system that integrates **real-time voice calls*
 
 ---
 
-## 🔄 Workflow  
+## Workflow  
 1. User starts a voice call via frontend  
 2. Speech is transcribed into text  
 3. Text is sent to Flask backend  
@@ -35,7 +35,7 @@ An AI-powered virtual telecaller system that integrates **real-time voice calls*
 
 ---
 
-## 🧪 Fine-Tuning Overview  
+## Fine-Tuning Overview  
 The **Meta-Llama-3.2-3B-Instruct** model was optimized through:
 
 - 🧩 Transfer Learning with **LoRA**  
