@@ -23,7 +23,7 @@ client = OpenAI(
 )
 
 # === Google Drive Configuration ===
-SERVICE_ACCOUNT_FILE = 'D:\\Projects\\telecaller\\backend\\niti.json'
+SERVICE_ACCOUNT_FILE = 'PATH_TO_YOUR_SERVICE_FILE'
 FILE_TO_UPLOAD = 'queries.txt'
 YOUR_EMAIL = 'your email'
 FOLDER_ID = '1dm3dBuiLh4bjZrdEOCXoGCR5WAwQsE98'
